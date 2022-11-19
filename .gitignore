@@ -1,0 +1,8 @@
+.credentials
+
+**/*.pyc
+**/*.csv
+**/*.xlsx
+**/*.json
+**/*.log
+**/*.html
